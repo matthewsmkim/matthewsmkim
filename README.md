@@ -3,6 +3,7 @@
 My name is Seongmin Kim.
 - 🔭 I’m currently working as a CS student. 
 - 🌱 I’m currently learning a lot of CS subjects.
+- ✨ I'm interested in front-end studying.  
 
 
 <!--
